@@ -32,12 +32,9 @@ Solutions to the LeetCode evergoing problems in C++
 
 <table>
   <tr>
-    <th>ID</th><th>Name</th><th>Rank</th>
+    <th>ID</th><th>Title</th><th>Time</th><th>Space</th><th>Difficulty</th><th>Note</th>
   </tr>
   <tr>
     <td>1</td><td>Tom Preston-Werner</td><td>Awesome</td>
-  </tr>
-  <tr>
-    <td>2</td><td>Albert Einstein</td><td>Nearly as awesome</td>
   </tr>
 </table>
