@@ -28,13 +28,13 @@ Solutions to the LeetCode evergoing problems in C++
 * Simulation
 * Design
 
-## Bit Manipulation
+## HashTable
 
 <table>
   <tr>
     <th>ID</th><th>Title</th><th>Time</th><th>Space</th><th>Difficulty</th><th>Note</th>
   </tr>
   <tr>
-    <td>1</td><td>Tom Preston-Werner</td><td>Awesome</td>
+    <td>[771](https://leetcode.com/problems/jewels-and-stones/description/)</td><td>[Jewels and Stones](./Algorithms/HashTable/JewelsAndStones.cpp)</td><td>O(n + m)</td><td>O(n)</td><td>Easy</td><td>n = in J, m = in S</td>
   </tr>
 </table>
