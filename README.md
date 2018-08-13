@@ -33,4 +33,4 @@ Solutions to the LeetCode evergoing problems in C++
 
 |  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
-|001| [Jewels and Stones](./Algorithms/HashTable/JewelsAndStones.cpp)      | [C++](./Algorithms/HashTable/JewelsAndStones.cpp)  | _O(n + m)_         | _O(n)_          | Easy         | n is of J and m is of S |
+|771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)      | [C++](./Algorithms/HashTable/JewelsAndStones.cpp)  | _O(n + m)_         | _O(n)_          | Easy         | n is of J and m is of S |
