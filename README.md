@@ -11,7 +11,7 @@ Solutions to the LeetCode evergoing problems in C++
 * Queue
 * Heap
 * Tree
-* Hash Table
+* [Hash Table](https://github.com/architsingla13/LeetCode-Solutions#hashtable)
 * Math
 * Two Pointers
 * Sort
