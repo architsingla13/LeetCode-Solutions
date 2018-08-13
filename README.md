@@ -30,11 +30,7 @@ Solutions to the LeetCode evergoing problems in C++
 
 ## HashTable
 
-<table>
-  <tr>
-    <th>ID</th><th>Title</th><th>Time</th><th>Space</th><th>Difficulty</th><th>Note</th>
-  </tr>
-  <tr>
-    <td>[771](https://leetcode.com/problems/jewels-and-stones/description/)</td><td>[Jewels and Stones](./Algorithms/HashTable/JewelsAndStones.cpp)</td><td>O(n + m)</td><td>O(n)</td><td>Easy</td><td>n = in J, m = in S</td>
-  </tr>
-</table>
+
+|  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
+|001| [Jewels and Stones](./Algorithms/HashTable/JewelsAndStones.cpp)      | [C++](./Algorithms/HashTable/JewelsAndStones.cpp)  | _O(n + m)_         | _O(n)_          | Easy         | n is of J and m is of S |
