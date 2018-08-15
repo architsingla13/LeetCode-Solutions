@@ -3,16 +3,16 @@
 Solutions to the LeetCode evergoing problems in Java
 
 ## Algorithms
-* Bit Manipulation
-* Array
-* String
+* [Bit Manipulation](https://github.com/architsingla13/LeetCode-Solutions#bitmanipulation)
+* [Array](https://github.com/architsingla13/LeetCode-Solutions#array)
+* [String](https://github.com/architsingla13/LeetCode-Solutions#string)
 * Linked List
 * Stack
 * Queue
 * Heap
-* Tree
+* [Tree](https://github.com/architsingla13/LeetCode-Solutions#tree)
 * [Hash Table](https://github.com/architsingla13/LeetCode-Solutions#hashtable)
-* Math
+* [Math](https://github.com/architsingla13/LeetCode-Solutions#math)
 * Two Pointers
 * Sort
 * Recursion
