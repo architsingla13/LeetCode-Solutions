@@ -16,7 +16,7 @@ Solutions to the LeetCode evergoing problems in Java
 * Two Pointers
 * Sort
 * Recursion
-* Binary Search
+* [Binary Search](https://github.com/architsingla13/LeetCode-Solutions#binarysearch)
 * Binary Search Tree
 * Breadth-First Search
 * Depth-First Search
@@ -76,5 +76,14 @@ Solutions to the LeetCode evergoing problems in Java
 |  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |883| [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/)      | [Java](./Algorithms/Math/Projection.java)  | _O(n*n)_         | _O(1)_          | Easy         |  |
+|728| [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)      | [Java](./Algorithms/Math/Projection.java)  | _O(n)_(n = num of numbers between [l,r])         | _O(n)_          | Easy         | Assuming R is bounded |
+
+
+## Binary Search
+
+
+|  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
+|852| [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)      | [Java](./Algorithms/BinarySearch/PeakMountain.java)  | _O(n)_         | _O(1)_          | Easy         |  |
 
 
