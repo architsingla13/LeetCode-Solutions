@@ -61,7 +61,7 @@ Solutions to the LeetCode evergoing problems in Java
 
 |  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
-|876| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)      | [Java](./Algorithms/LinkedList/MiddleNode.java)  | _O(n)_         | _O(1)_          | Easy         | |
+|876| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)      | [Java](./Algorithms/LinkedList/MiddleNode.java)  | _O(n)_         | _O(1)_          | Easy         | fast and slow pointers |
 
 
 ## Tree
