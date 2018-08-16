@@ -80,6 +80,7 @@ Solutions to the LeetCode evergoing problems in Java
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)      | [Java](./Algorithms/HashTable/JewelsAndStones.java)  | _O(n + m)_         | _O(n)_          | Easy         | n is of J and m is of S |
 
+
 ## Math
 
 
