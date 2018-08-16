@@ -6,7 +6,7 @@ Solutions to the LeetCode evergoing problems in Java
 * [Bit Manipulation](https://github.com/architsingla13/LeetCode-Solutions#bitmanipulation)
 * [Array](https://github.com/architsingla13/LeetCode-Solutions#array)
 * [String](https://github.com/architsingla13/LeetCode-Solutions#string)
-* Linked List
+* [Linked List](https://github.com/architsingla13/LeetCode-Solutions#linkedlist)
 * Stack
 * Queue
 * Heap
@@ -42,6 +42,8 @@ Solutions to the LeetCode evergoing problems in Java
 |  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |832| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)      | [Java](./Algorithms/Array/FlippingImage.java)  | _O(n*m)_         | _O(1)_          | Easy         | Thoughtful for max optimisation |
+|561| [Array Partition I](https://leetcode.com/problems/array-partition-i/description/)      | [Java](./Algorithms/Array/ArrayPartition1.java)  | _O(nlogn)_         | _O(1)_          | Easy         |  |
+|867| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)      | [Java](./Algorithms/Array/Transpose.java)  | _O(r*c)_         | _O(r*c)_          | Easy         |  |
 
 
 ## String
@@ -52,6 +54,14 @@ Solutions to the LeetCode evergoing problems in Java
 |709| [To Lower Case ](https://leetcode.com/problems/to-lower-case/description/)      | [Java](./Algorithms/String/ToLowerCase.java)  | _O(n)_         | _O(1)_          | Easy         | n is of input|
 |804| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)      | [Java](./Algorithms/String/UniqueMorseCode.java)  | _O(n)_         | _O(n)_          | Easy         | n is sum of all words length|
 |657| [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/)      | [Java](./Algorithms/String/JudgeRouteCircle.java)  | _O(n)_         | _O(1)_          | Easy         | n is string length|
+
+
+## LinkedList
+
+
+|  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
+|876| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)      | [Java](./Algorithms/LinkedList/MiddleNode.java)  | _O(n)_         | _O(1)_          | Easy         | |
 
 
 ## Tree
