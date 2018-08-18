@@ -35,6 +35,7 @@ Solutions to the LeetCode evergoing problems in Java
 |  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |461| [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)      | [Java](./Algorithms/BitManipulation/HammingDistance.java)  | _O(1)_         | _O(1)_          | Easy         | Thoughtful for max optimisation |
+|476| [Number Complement](https://leetcode.com/problems/number-complement/description/)      | [Java](./Algorithms/BitManipulation/Complement.java)  | _O(logn)_         | _O(1)_          | Easy         |  |
 
 
 ## Array
@@ -45,6 +46,7 @@ Solutions to the LeetCode evergoing problems in Java
 |832| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)      | [Java](./Algorithms/Array/FlippingImage.java)  | _O(n*m)_         | _O(1)_          | Easy         | Thoughtful for max optimisation |
 |561| [Array Partition I](https://leetcode.com/problems/array-partition-i/description/)      | [Java](./Algorithms/Array/ArrayPartition1.java)  | _O(nlogn)_         | _O(1)_          | Easy         |  |
 |867| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)      | [Java](./Algorithms/Array/Transpose.java)  | _O(r*c)_         | _O(r*c)_          | Easy         |  |
+|806| [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)      | [Java](./Algorithms/Array/NumberLines.java)  | _O(n)_         | _O(1)_          | Easy         |  n = string length|
 
 
 ## String
@@ -71,6 +73,7 @@ Solutions to the LeetCode evergoing problems in Java
 |  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |617| [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/)      | [Java](./Algorithms/Tree/MergeTwoBinaryTrees.java)  | _O(n )_         | _O(n)_(Worst Case)          | Easy         | n is min. num of nodes|
+|872| [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/)      | [Java](./Algorithms/Tree/LeafSimilar.java)  | _O(n)_         | _O(h)_          | Easy         | h = max height of tree, n = max num of nodes|
 
 
 
