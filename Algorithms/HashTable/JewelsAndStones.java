@@ -17,7 +17,6 @@ public class JewelsAndStones {
         for (int i = 0; i < J.length(); i++) {
             map.put(J.charAt(i), 1);
         }
-
         for (int i = 0; i < S.length(); i++) {
             Integer integer = map.get(S.charAt(i));
             if(integer != null){

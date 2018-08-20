@@ -57,6 +57,9 @@ Solutions to the LeetCode evergoing problems in Java
 |709| [To Lower Case ](https://leetcode.com/problems/to-lower-case/description/)      | [Java](./Algorithms/String/ToLowerCase.java)  | _O(n)_         | _O(1)_          | Easy         | n is of input|
 |804| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)      | [Java](./Algorithms/String/UniqueMorseCode.java)  | _O(n)_         | _O(n)_          | Easy         | n is sum of all words length|
 |657| [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/)      | [Java](./Algorithms/String/JudgeRouteCircle.java)  | _O(n)_         | _O(1)_          | Easy         | n is string length|
+|557| [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)      | [Java](./Algorithms/String/Reverse111.java)  | _O(n)_         | _O(n)_          | Easy         | n is of A |
+|344| [Reverse String](https://leetcode.com/problems/reverse-string/description/)      | [Java](./Algorithms/String/Reverse.java)  | _O(n)_         | _O(n)_          | Easy         | n is of A |
+|821| [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/)      | [Java](./Algorithms/String/Shortest.java)  | _O(n)_         | _O(n)_          | Easy         | n is of A ; Tricky to think for simplest solution|
 
 
 ## LinkedList
@@ -83,6 +86,8 @@ Solutions to the LeetCode evergoing problems in Java
 |  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)      | [Java](./Algorithms/HashTable/JewelsAndStones.java)  | _O(n + m)_         | _O(n)_          | Easy         | n is of J and m is of S |
+|884| [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/)      | [Java](./Algorithms/HashTable/UncommonWords.java)  | _O(n + m)_         | _O(n + m)_          | Easy         | n is of A and m is of B |
+|811| [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)      | [Java](./Algorithms/HashTable/SubDomain.java)  | _O(n)_         | _O(n)_          | Easy         | n is of cpDomains|
 
 
 ## Math
