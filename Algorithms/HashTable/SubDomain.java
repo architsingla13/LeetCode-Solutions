@@ -20,7 +20,6 @@ public class SubDomain {
             String[] temp = cpdomains[i].split(" ");
             Integer count = Integer.valueOf(temp[0]);
             String key = temp[1];
-
             map.put(key, map.getOrDefault(key, 0) + count);
             for(int j=0; j<key.length(); j++){
                 if(key.charAt(j) == '.'){

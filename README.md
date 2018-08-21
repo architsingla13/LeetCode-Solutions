@@ -36,6 +36,7 @@ Solutions to the LeetCode evergoing problems in Java
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |461| [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)      | [Java](./Algorithms/BitManipulation/HammingDistance.java)  | _O(1)_         | _O(1)_          | Easy         | Thoughtful for max optimisation |
 |476| [Number Complement](https://leetcode.com/problems/number-complement/description/)      | [Java](./Algorithms/BitManipulation/Complement.java)  | _O(logn)_         | _O(1)_          | Easy         |  |
+|868| [Binary Gap](https://leetcode.com/problems/binary-gap/description/)      | [Java](./Algorithms/BitManipulation/BinaryGap.java)  | _O(logn)_         | _O(1)_          | Easy         | n is here constant = 32, O(logn) = O(1)|
 
 
 ## Array
@@ -77,6 +78,7 @@ Solutions to the LeetCode evergoing problems in Java
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |617| [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/)      | [Java](./Algorithms/Tree/MergeTwoBinaryTrees.java)  | _O(n )_         | _O(n)_(Worst Case)          | Easy         | n is min. num of nodes|
 |872| [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/)      | [Java](./Algorithms/Tree/LeafSimilar.java)  | _O(n)_         | _O(h)_          | Easy         | h = max height of tree, n = max num of nodes|
+|559| [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)      | [Java](./Algorithms/Tree/MaxDepthNAry.java)  | _O(n)_         | _O(h)_          | Easy         | h = max height of tree, n = max num of nodes|
 
 
 
@@ -88,6 +90,7 @@ Solutions to the LeetCode evergoing problems in Java
 |771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)      | [Java](./Algorithms/HashTable/JewelsAndStones.java)  | _O(n + m)_         | _O(n)_          | Easy         | n is of J and m is of S |
 |884| [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/)      | [Java](./Algorithms/HashTable/UncommonWords.java)  | _O(n + m)_         | _O(n + m)_          | Easy         | n is of A and m is of B |
 |811| [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)      | [Java](./Algorithms/HashTable/SubDomain.java)  | _O(n)_         | _O(n)_          | Easy         | n is of cpDomains|
+|500| [Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)      | [Java](./Algorithms/HashTable/KeyboardRow.java)  | _O(n)_         | _O(n)_          | Easy         | n is of all words length sum|
 
 
 ## Math
