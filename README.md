@@ -48,6 +48,8 @@ Solutions to the LeetCode evergoing problems in Java
 |561| [Array Partition I](https://leetcode.com/problems/array-partition-i/description/)      | [Java](./Algorithms/Array/ArrayPartition1.java)  | _O(nlogn)_         | _O(1)_          | Easy         |  |
 |867| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)      | [Java](./Algorithms/Array/Transpose.java)  | _O(r*c)_         | _O(r*c)_          | Easy         |  |
 |806| [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)      | [Java](./Algorithms/Array/NumberLines.java)  | _O(n)_         | _O(1)_          | Easy         |  n = string length|
+|766| [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)      | [Java](./Algorithms/Array/ToeplitzMatrix.java)  | _O(n*m)_         | _O(1)_          | Easy         |  |
+|463| [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)      | [Java](./Algorithms/Array/IslandPerimeter.java)  | _O(n*m)_         | _O(1)_          | Easy         |  |
 
 
 ## String
@@ -69,6 +71,14 @@ Solutions to the LeetCode evergoing problems in Java
 |  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |876| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)      | [Java](./Algorithms/LinkedList/MiddleNode.java)  | _O(n)_         | _O(1)_          | Easy         | fast and slow pointers |
+
+
+## Stack
+
+
+|  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
+|682| [Baseball Game](https://leetcode.com/problems/baseball-game/description/)      | [Java](./Algorithms/Stack/Baseball.java)  | _O(n)_         | _O(n)_          | Easy         |  |
 
 
 ## Tree
