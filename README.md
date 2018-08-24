@@ -89,6 +89,8 @@ Solutions to the LeetCode evergoing problems in Java
 |617| [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/)      | [Java](./Algorithms/Tree/MergeTwoBinaryTrees.java)  | _O(n )_         | _O(n)_(Worst Case)          | Easy         | n is min. num of nodes|
 |872| [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/)      | [Java](./Algorithms/Tree/LeafSimilar.java)  | _O(n)_         | _O(h)_          | Easy         | h = max height of tree, n = max num of nodes|
 |559| [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)      | [Java](./Algorithms/Tree/MaxDepthNAry.java)  | _O(n)_         | _O(h)_          | Easy         | h = max height of tree, n = max num of nodes|
+|590| [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/)      | [Java](./Algorithms/Tree/NaryPostOrder.java)  | _O(n)_         | _O(n)_          | Easy         | n = Total num of nodes, Iterative solution is a must|
+|669| [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/)      | [Java](./Algorithms/Tree/TrimBST.java)  | _O(n)_         | _O(n)_          | Easy         | n = Total num of nodes|
 
 
 
@@ -101,6 +103,7 @@ Solutions to the LeetCode evergoing problems in Java
 |884| [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/)      | [Java](./Algorithms/HashTable/UncommonWords.java)  | _O(n + m)_         | _O(n + m)_          | Easy         | n is of A and m is of B |
 |811| [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)      | [Java](./Algorithms/HashTable/SubDomain.java)  | _O(n)_         | _O(n)_          | Easy         | n is of cpDomains|
 |500| [Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)      | [Java](./Algorithms/HashTable/KeyboardRow.java)  | _O(n)_         | _O(n)_          | Easy         | n is of all words length sum|
+|575| [Distribute Candies](https://leetcode.com/problems/distribute-candies/description/)      | [Java](./Algorithms/HashTable/DistributeCandies.java)  | _O(n)_         | _O(n)_          | Easy         | Good question for thinking and optimising|
 
 
 ## Math
