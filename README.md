@@ -50,6 +50,8 @@ Solutions to the LeetCode evergoing problems in Java
 |806| [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)      | [Java](./Algorithms/Array/NumberLines.java)  | _O(n)_         | _O(1)_          | Easy         |  n = string length|
 |766| [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)      | [Java](./Algorithms/Array/ToeplitzMatrix.java)  | _O(n*m)_         | _O(1)_          | Easy         |  |
 |463| [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)      | [Java](./Algorithms/Array/IslandPerimeter.java)  | _O(n*m)_         | _O(1)_          | Easy         |  |
+|412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)      | [Java](./Algorithms/Array/FizzBuzz.java)  | _O(n)_         | _O(1)_          | Easy         |  |
+|566| [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)      | [Java](./Algorithms/Array/Reshape.java)  | _O(n*m)_         | _O(n*m)_          | Easy         |  |
 
 
 ## String
