@@ -106,6 +106,7 @@ Solutions to the LeetCode evergoing problems in Java
 |811| [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)      | [Java](./Algorithms/HashTable/SubDomain.java)  | _O(n)_         | _O(n)_          | Easy         | n is of cpDomains|
 |500| [Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)      | [Java](./Algorithms/HashTable/KeyboardRow.java)  | _O(n)_         | _O(n)_          | Easy         | n is of all words length sum|
 |575| [Distribute Candies](https://leetcode.com/problems/distribute-candies/description/)      | [Java](./Algorithms/HashTable/DistributeCandies.java)  | _O(n)_         | _O(n)_          | Easy         | Good question for thinking and optimising|
+|888| [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/)      | [Java](./Algorithms/HashTable/FairCandySwap.java)  | _O(n)_         | _O(n)_          | Easy         | |
 
 
 ## Math
@@ -123,5 +124,13 @@ Solutions to the LeetCode evergoing problems in Java
 |  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |852| [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)      | [Java](./Algorithms/BinarySearch/PeakMountain.java)  | _O(n)_         | _O(1)_          | Easy         |  |
+
+
+## Binary Search Tree
+
+
+|  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
+|700| [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)      | [Java](./Algorithms/BinarySearchTree/Search.java)  | _O(logn)_         | _O(1)_          | Easy         | |
 
 
