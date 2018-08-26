@@ -17,7 +17,7 @@ Solutions to the LeetCode evergoing problems in Java
 * Sort
 * Recursion
 * [Binary Search](https://github.com/architsingla13/LeetCode-Solutions#binarysearch)
-* Binary Search Tree
+* [Binary Search Tree](https://github.com/architsingla13/LeetCode-Solutions#binary-search-tree)
 * Breadth-First Search
 * Depth-First Search
 * Backtracking
