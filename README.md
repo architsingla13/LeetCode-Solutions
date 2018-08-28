@@ -18,7 +18,7 @@ Solutions to the LeetCode evergoing problems in Java
 * Recursion
 * [Binary Search](https://github.com/architsingla13/LeetCode-Solutions#binarysearch)
 * [Binary Search Tree](https://github.com/architsingla13/LeetCode-Solutions#binary-search-tree)
-* Breadth-First Search
+* [Breadth-First Search](https://github.com/architsingla13/LeetCode-Solutions#bfs)
 * Depth-First Search
 * Backtracking
 * Dynamic Programming
@@ -37,6 +37,7 @@ Solutions to the LeetCode evergoing problems in Java
 |461| [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)      | [Java](./Algorithms/BitManipulation/HammingDistance.java)  | _O(1)_         | _O(1)_          | Easy         | Thoughtful for max optimisation |
 |476| [Number Complement](https://leetcode.com/problems/number-complement/description/)      | [Java](./Algorithms/BitManipulation/Complement.java)  | _O(logn)_         | _O(1)_          | Easy         |  |
 |868| [Binary Gap](https://leetcode.com/problems/binary-gap/description/)      | [Java](./Algorithms/BitManipulation/BinaryGap.java)  | _O(logn)_         | _O(1)_          | Easy         | n is here constant = 32, O(logn) = O(1)|
+|136| [Single Number](https://leetcode.com/problems/single-number/description/)      | [Java](./Algorithms/BitManipulation/SingleNumber.java)  | _O(n)_         | _O(1)_          | Easy         | |
 
 
 ## Array
@@ -52,6 +53,7 @@ Solutions to the LeetCode evergoing problems in Java
 |463| [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)      | [Java](./Algorithms/Array/IslandPerimeter.java)  | _O(n*m)_         | _O(1)_          | Easy         |  |
 |412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)      | [Java](./Algorithms/Array/FizzBuzz.java)  | _O(n)_         | _O(1)_          | Easy         |  |
 |566| [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)      | [Java](./Algorithms/Array/Reshape.java)  | _O(n*m)_         | _O(n*m)_          | Easy         |  |
+|892| [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/)      | [Java](./Algorithms/Array/SurfaceArea.java)  | _O(n^2)_         | _O(1)_          | Easy         |  |
 
 
 ## String
@@ -93,7 +95,7 @@ Solutions to the LeetCode evergoing problems in Java
 |559| [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)      | [Java](./Algorithms/Tree/MaxDepthNAry.java)  | _O(n)_         | _O(h)_          | Easy         | h = max height of tree, n = max num of nodes|
 |590| [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/)      | [Java](./Algorithms/Tree/NaryPostOrder.java)  | _O(n)_         | _O(n)_          | Easy         | n = Total num of nodes, Iterative solution is a must|
 |669| [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/)      | [Java](./Algorithms/Tree/TrimBST.java)  | _O(n)_         | _O(n)_          | Easy         | n = Total num of nodes|
-
+|104| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)      | [Java](./Algorithms/Tree/MaxDepth.java)  | _O(n)_         | _O(n)_          | Easy         | n = Total num of nodes|
 
 
 ## HashTable
@@ -107,6 +109,7 @@ Solutions to the LeetCode evergoing problems in Java
 |500| [Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)      | [Java](./Algorithms/HashTable/KeyboardRow.java)  | _O(n)_         | _O(n)_          | Easy         | n is of all words length sum|
 |575| [Distribute Candies](https://leetcode.com/problems/distribute-candies/description/)      | [Java](./Algorithms/HashTable/DistributeCandies.java)  | _O(n)_         | _O(n)_          | Easy         | Good question for thinking and optimising|
 |888| [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/)      | [Java](./Algorithms/HashTable/FairCandySwap.java)  | _O(n)_         | _O(n)_          | Easy         | |
+|496| [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)      | [Java](./Algorithms/HashTable/NextGreater1.java)  | _O(n)_         | _O(n)_          | Easy         | Good question to consider|
 
 
 ## Math
@@ -132,5 +135,13 @@ Solutions to the LeetCode evergoing problems in Java
 |  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |700| [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)      | [Java](./Algorithms/BinarySearchTree/Search.java)  | _O(logn)_         | _O(1)_          | Easy         | |
+
+
+## BFS
+
+
+|  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
+|637| [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)      | [Java](./Algorithms/BFS/AverageOfLevels.java)  | _O(n)_         | _O(m)_          | Easy         | n = total nodes, m = max nodes at any level; Can be solved by DFS as well, Must look|
 
 
