@@ -38,6 +38,8 @@ Solutions to the LeetCode evergoing problems in Java
 |476| [Number Complement](https://leetcode.com/problems/number-complement/description/)      | [Java](./Algorithms/BitManipulation/Complement.java)  | _O(logn)_         | _O(1)_          | Easy         |  |
 |868| [Binary Gap](https://leetcode.com/problems/binary-gap/description/)      | [Java](./Algorithms/BitManipulation/BinaryGap.java)  | _O(logn)_         | _O(1)_          | Easy         | n is here constant = 32, O(logn) = O(1)|
 |136| [Single Number](https://leetcode.com/problems/single-number/description/)      | [Java](./Algorithms/BitManipulation/SingleNumber.java)  | _O(n)_         | _O(1)_          | Easy         | |
+|693| [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)      | [Java](./Algorithms/BitManipulation/AlternatingBits.java)  | _O(1)_         | _O(1)_          | Easy         | |
+|762| [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/)      | [Java](./Algorithms/BitManipulation/PrimaryOfSetBits.java)  | _O(R-L)_         | _O(1)_          | Easy         | Good Question|
 
 
 ## Array
@@ -67,6 +69,8 @@ Solutions to the LeetCode evergoing problems in Java
 |557| [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)      | [Java](./Algorithms/String/Reverse111.java)  | _O(n)_         | _O(n)_          | Easy         | n is of A |
 |344| [Reverse String](https://leetcode.com/problems/reverse-string/description/)      | [Java](./Algorithms/String/Reverse.java)  | _O(n)_         | _O(n)_          | Easy         | n is of A |
 |821| [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/)      | [Java](./Algorithms/String/Shortest.java)  | _O(n)_         | _O(n)_          | Easy         | n is of A ; Tricky to think for simplest solution|
+|521| [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/)      | [Java](./Algorithms/String/LongestUncommonSubseq.java)  | _O(min(a,b))_         | _O(1)_          | Easy         | Good puzzle|
+|824| [Goat Latin](https://leetcode.com/problems/goat-latin/description/)      | [Java](./Algorithms/String/GoatLatin.java)  | _O(N + W^2)_         | _O(N)_          | Easy         | Good to visualise complexity |
 
 
 ## LinkedList
@@ -96,6 +100,7 @@ Solutions to the LeetCode evergoing problems in Java
 |590| [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/)      | [Java](./Algorithms/Tree/NaryPostOrder.java)  | _O(n)_         | _O(n)_          | Easy         | n = Total num of nodes, Iterative solution is a must|
 |669| [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/)      | [Java](./Algorithms/Tree/TrimBST.java)  | _O(n)_         | _O(n)_          | Easy         | n = Total num of nodes|
 |104| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)      | [Java](./Algorithms/Tree/MaxDepth.java)  | _O(n)_         | _O(n)_          | Easy         | n = Total num of nodes|
+|589| [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/)      | [Java](./Algorithms/Tree/NAryPreorder.java)  | _O(n)_         | _O(n)_          | Easy         | n = Total num of nodes|
 
 
 ## HashTable
@@ -118,7 +123,8 @@ Solutions to the LeetCode evergoing problems in Java
 |  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |883| [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/)      | [Java](./Algorithms/Math/Projection.java)  | _O(n*n)_         | _O(1)_          | Easy         |  |
-|728| [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)      | [Java](./Algorithms/Math/Projection.java)  | _O(n)_(n = num of numbers between [l,r])         | _O(n)_          | Easy         | Assuming R is bounded |
+|728| [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)      | [Java](./Algorithms/Math/SelfDividing.java)  | _O(n)_(n = num of numbers between [l,r])         | _O(n)_          | Easy         | Assuming R is bounded |
+|292| [Nim Game](https://leetcode.com/problems/nim-game/description/)      | [Java](./Algorithms/Math/NimGame.java)  | _O(1)_         | _O(1)_          | Easy         |  |
 
 
 ## Binary Search
