@@ -101,6 +101,7 @@ Solutions to the LeetCode evergoing problems in Java
 |669| [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/)      | [Java](./Algorithms/Tree/TrimBST.java)  | _O(n)_         | _O(n)_          | Easy         | n = Total num of nodes|
 |104| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)      | [Java](./Algorithms/Tree/MaxDepth.java)  | _O(n)_         | _O(n)_          | Easy         | n = Total num of nodes|
 |589| [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/)      | [Java](./Algorithms/Tree/NAryPreorder.java)  | _O(n)_         | _O(n)_          | Easy         | n = Total num of nodes|
+|226| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)      | [Java](./Algorithms/Tree/InvertTree.java)  | _O(n)_         | _O(n)_          | Easy         | n = Total num of nodes|
 
 
 ## HashTable
