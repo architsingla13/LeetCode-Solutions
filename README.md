@@ -150,5 +150,6 @@ Solutions to the LeetCode evergoing problems in Java
 |  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |637| [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)      | [Java](./Algorithms/BFS/AverageOfLevels.java)  | _O(n)_         | _O(m)_          | Easy         | n = total nodes, m = max nodes at any level; Can be solved by DFS as well, Must look|
+|429| [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)      | [Java](./Algorithms/BFS/NaryLevelOrder.java)  | _O(n)_         | _O(m)_          | Easy         | n = total nodes, m = max nodes at any level;|
 
 
