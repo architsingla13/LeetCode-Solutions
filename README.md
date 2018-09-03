@@ -19,7 +19,7 @@ Solutions to the LeetCode evergoing problems in Java
 * [Binary Search](https://github.com/architsingla13/LeetCode-Solutions#binarysearch)
 * [Binary Search Tree](https://github.com/architsingla13/LeetCode-Solutions#binary-search-tree)
 * [Breadth-First Search](https://github.com/architsingla13/LeetCode-Solutions#bfs)
-* Depth-First Search
+* [Depth-First Search](https://github.com/architsingla13/LeetCode-Solutions#dfs)
 * Backtracking
 * Dynamic Programming
 * Greedy
@@ -56,6 +56,7 @@ Solutions to the LeetCode evergoing problems in Java
 |412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)      | [Java](./Algorithms/Array/FizzBuzz.java)  | _O(n)_         | _O(1)_          | Easy         |  |
 |566| [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)      | [Java](./Algorithms/Array/Reshape.java)  | _O(n*m)_         | _O(n*m)_          | Easy         |  |
 |892| [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/)      | [Java](./Algorithms/Array/SurfaceArea.java)  | _O(n^2)_         | _O(1)_          | Easy         |  |
+|485| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)      | [Java](./Algorithms/Array/Max1s.java)  | _O(n)_         | _O(1)_          | Easy         |  |
 
 
 ## String
@@ -126,6 +127,7 @@ Solutions to the LeetCode evergoing problems in Java
 |883| [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/)      | [Java](./Algorithms/Math/Projection.java)  | _O(n*n)_         | _O(1)_          | Easy         |  |
 |728| [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)      | [Java](./Algorithms/Math/SelfDividing.java)  | _O(n)_(n = num of numbers between [l,r])         | _O(n)_          | Easy         | Assuming R is bounded |
 |292| [Nim Game](https://leetcode.com/problems/nim-game/description/)      | [Java](./Algorithms/Math/NimGame.java)  | _O(1)_         | _O(1)_          | Easy         |  |
+|812| [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/)      | [Java](./Algorithms/Math/TriangleArea.java)  | _O(n^3)_         | _O(1)_          | Easy         | Know formula to solve this|
 
 
 ## Binary Search
@@ -152,4 +154,10 @@ Solutions to the LeetCode evergoing problems in Java
 |637| [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)      | [Java](./Algorithms/BFS/AverageOfLevels.java)  | _O(n)_         | _O(m)_          | Easy         | n = total nodes, m = max nodes at any level; Can be solved by DFS as well, Must look|
 |429| [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)      | [Java](./Algorithms/BFS/NaryLevelOrder.java)  | _O(n)_         | _O(m)_          | Easy         | n = total nodes, m = max nodes at any level;|
 
+## DFS
 
+
+|  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
+|897| [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/)      | [Java](./Algorithms/DFS/IncreasingOrder.java)  | _O(n)_         | _O(h)_          | Easy         | n = total nodes, h = max height; Iterative Solution; Bookmarked|
+|112| [Path Sum](https://leetcode.com/problems/path-sum/description/)      | [Java](./Algorithms/DFS/PathSum.java)  | _O(n)_         | _O(h)_          | Easy         | n = total nodes, h = max height; |
