@@ -89,6 +89,7 @@ Solutions to the LeetCode evergoing problems in Java
 |  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |682| [Baseball Game](https://leetcode.com/problems/baseball-game/description/)      | [Java](./Algorithms/Stack/Baseball.java)  | _O(n)_         | _O(n)_          | Easy         |  |
+|225| [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)      | [Java](./Algorithms/Stack/ImplementStack.java)  | _(O(n) - push, O(1) - rest ops)_         | _O(1)_          | Easy         |  |
 
 
 ## Tree
