@@ -72,6 +72,7 @@ Solutions to the LeetCode evergoing problems in Java
 |821| [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/)      | [Java](./Algorithms/String/Shortest.java)  | _O(n)_         | _O(n)_          | Easy         | n is of A ; Tricky to think for simplest solution|
 |521| [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/)      | [Java](./Algorithms/String/LongestUncommonSubseq.java)  | _O(min(a,b))_         | _O(1)_          | Easy         | Good puzzle|
 |824| [Goat Latin](https://leetcode.com/problems/goat-latin/description/)      | [Java](./Algorithms/String/GoatLatin.java)  | _O(N + W^2)_         | _O(N)_          | Easy         | Good to visualise complexity |
+|443| [String Compression](https://leetcode.com/problems/string-compression/description/)      | [Java](./Algorithms/String/StringCompression.java)  | _O(n)_         | _O(1)_          | Easy         |  |
 
 
 ## LinkedList
