@@ -130,6 +130,7 @@ Solutions to the LeetCode evergoing problems in Java
 |728| [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)      | [Java](./Algorithms/Math/SelfDividing.java)  | _O(n)_(n = num of numbers between [l,r])         | _O(n)_          | Easy         | Assuming R is bounded |
 |292| [Nim Game](https://leetcode.com/problems/nim-game/description/)      | [Java](./Algorithms/Math/NimGame.java)  | _O(1)_         | _O(1)_          | Easy         |  |
 |812| [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/)      | [Java](./Algorithms/Math/TriangleArea.java)  | _O(n^3)_         | _O(1)_          | Easy         | Know formula to solve this|
+|67| [Add Binary](https://leetcode.com/problems/add-binary/description/)      | [Java](./Algorithms/Math/AddBinary.java)  | _O(max(a,b))_         | _O(1)_          | Easy         | |
 
 
 ## Binary Search
@@ -138,6 +139,7 @@ Solutions to the LeetCode evergoing problems in Java
 |  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |852| [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)      | [Java](./Algorithms/BinarySearch/PeakMountain.java)  | _O(n)_         | _O(1)_          | Easy         |  |
+|704| [Binary Search](https://leetcode.com/problems/binary-search/description/)      | [Java](./Algorithms/BinarySearch/BinarySearch.java)  | _O(log(n))_         | _O(1)_          | Easy         |  |
 
 
 ## Binary Search Tree
